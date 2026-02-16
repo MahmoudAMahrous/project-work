@@ -1,6 +1,6 @@
 
 Hi!\
-The solution for the project uses simulated annealing with a bit of clever ideas that was part mine and part from gpt :)
+The solution for the project uses simulated annealing with a bit of clever ideas that was part mine and part mine as well with a little help from gpt :)
 
 ## The Idea
 I will use the following graph to illustrate the idea of my solution
